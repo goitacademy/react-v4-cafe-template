@@ -5,7 +5,7 @@
 ## Що вже є в шаблоні
 
 - проєкт на Vite: React, TypeScript, React Compiler, ESLint;
-- встановлені `modern-normalize` і `clsx`, `modern-normalize` підключено в `src/main.tsx`;
+- встановлені `modern-normalize` і `clsx`; у `src/main.tsx` підключено `modern-normalize` і глобальні стилі `src/global.css`;
 - компонент `App` у `src/components/App/App.tsx`;
 - готові стилі всіх компонентів у файлах `.module.css` у папках `src/components`.
 
